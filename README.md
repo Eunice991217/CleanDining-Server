@@ -6,7 +6,7 @@
 <img width="1000” src="https://github.com/Eunice991217/CleanDining-Server-ToyProject/assets/101406317/ec659178-15f0-4967-ac7b-1cae2b8fb13e">
 <img width="1000” src="https://github.com/Eunice991217/CleanDining-Server-ToyProject/assets/101406317/6da209e7-5c76-4681-89e1-f19a208ab09e">
 <img width="1000” src="https://github.com/Eunice991217/CleanDining-Server-ToyProject/assets/101406317/d72e495c-5816-4d16-8707-dea7a001211a">
-<img width="100" src="https://github.com/Eunice991217/CleanDining-Server-ToyProject/assets/101406317/a5410593-91f6-45cd-9b4b-35b016b69d24">
+<img width="1000" src="https://github.com/Eunice991217/CleanDining-Server-ToyProject/assets/101406317/a5410593-91f6-45cd-9b4b-35b016b69d24">
 </p>
 
 ## 📝 Summary  
